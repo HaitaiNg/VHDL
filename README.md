@@ -8,8 +8,6 @@ https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-cu
 
 ![alt text](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-4-ddr/nexys-4-ddr-0.png)
 
-##### How to compile and execute the source code
-Vivado Design Suite by Xilinx 
 
 ##### Modules
 - Cordic Algorithm: Computes hyperbolic and trigonometric functions using addition, subtraction, bit shifting, and table look up. User provides inputs via keyboard, and results will be returned on the FPGA.
